@@ -1,3 +1,5 @@
+package functional_interface;
+
 import java.util.List;
 import java.util.function.Supplier;
 import java.util.stream.Stream;
